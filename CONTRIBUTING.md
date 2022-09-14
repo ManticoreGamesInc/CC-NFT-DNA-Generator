@@ -7,7 +7,7 @@ Have a question? Before you do, please read the following guidelines.
 
 ### Got a question or problem?
 
-For quick questions there's no need to open an issue as you can reach us on
+For quick questions, there's no need to open an issue as you can reach us on
 [Discord][1].
 
 [1]: https://www.discord.gg/core-creators
@@ -19,7 +19,7 @@ to the [issue tracker][2] in our GitHub repository. Even better, you can submit
 a Pull Request with a fix. However, before doing so, please read the
 [submission guidelines][3].
 
-[2]: https://github.com/Core-Team-META/CC-Template-Repository
+[2]: https://github.com/ManticoreGamesInc//NFT-DNA-Generator
 [3]: #submission-guidelines
 
 ### Missing a feature?
@@ -30,14 +30,14 @@ proposal for your work first, to be sure that it is of use for everyone, as
 we have our own goals for the project. Please consider what kind of change
 it is:
 
-- For a **major feature**, first open an issue and outline your proposal so
+- For a **major feature**, first, open an issue and outline your proposal so
   that it can be discussed. This will also allow us to better coordinate our
   efforts, prevent duplication of work, and help you to craft the change so
   that it is successfully accepted into the project.
 
 - **Small features and bugs** can be crafted and directly submitted as a Pull
   Request. However, there is no guarantee that your feature will make it into
-  the `main`, as it's always a matter of opinion whether if benefits the
+  the `main`, as it's always a matter of opinion whether it benefits the
   overall functionality of the project.
 
 ## Submission guidelines
@@ -49,11 +49,11 @@ your problem already exists and the discussion might inform you of workarounds
 readily available.
 
 We want to fix all the issues as soon as possible, but before fixing a bug we
-need to reproduce and confirm it. In order to reproduce bugs we will
+need to reproduce and confirm it. In order to reproduce bugs, we will
 systematically ask you to provide a minimal reproduction scenario using the
 custom issue template. Please stick to the issue template.
 
-Unfortunately we are not able to investigate / fix bugs without a minimal
+Unfortunately, we are not able to investigate/fix bugs without a minimal
 reproduction scenario, so if we don't hear back from you we may close the issue.
 
 ### Submitting a Pull Request (PR)
@@ -71,7 +71,7 @@ go ahead.
    are no errors. This is a mandatory requirement for your PR to get accepted.
 
 3. **Pull Request**: After making sure everything passes, commit your changes,
-   push your branch to GitHub and send a PR to `Core-Team-META/CC-Template-Repository:main`.
+   push your branch to GitHub and send a PR to `/NFT-DNA-Generator:main`.
    If we suggest changes, make the required updates, rebase your branch and push the
    changes to your GitHub repository, which will automatically update your PR.
 

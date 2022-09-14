@@ -1,0 +1,9 @@
+{
+
+	"files.exclude": {
+
+		 "**/*.pbt": true 
+
+	}
+
+}
